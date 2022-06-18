@@ -9,3 +9,5 @@ My future plans.
 - [ ] Remake [EntySec](https://github.com/EntySec) website.
 - [ ] Remake [HatSploit Framework](https://github.com/EntySec/HatSploit) website.
 - [ ] Fix [EntySec](https://github.com/EntySec) blog and write some articles about [HatSploit Framework](https://github.com/EntySec/HatSploit).
+- [ ] Give a speech about [HatSploit Framework](https://github.com/EntySec/HatSploit) at [OffZone](https://offzone.moscow).
+- [ ] Start working on [Penxos](https://github.com/EntySec/Penxos) (maybe different name).
